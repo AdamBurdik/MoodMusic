@@ -1,0 +1,47 @@
+[project]
+name = "moodmusic"
+version = "0.1.0"
+description = "Mood-based music recommendations via sentence-transformers, with FastAPI + MCP server"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Your Name" }]
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.30",
+  "pydantic>=2.7",
+  "numpy>=1.26",
+  "sentence-transformers>=3.0",
+  "mcp>=1.0.0",
+]
+
+[project.scripts]
+moodmusic-api = "moodmusic.api:main"
+moodmusic-mcp = "moodmusic.mcp_server:main"
+moodmusic-recommend = "moodmusic.cli:main"
+
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/moodmusic"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"src/moodmusic/data/songs.json" = "moodmusic/data/songs.json"
+
+[tool.hatch.build.targets.sdist]
+include = [
+  "README.md",
+  "pyproject.toml",
+  "src/moodmusic/**",
+]
+
+[tool.uv]
+package = true
+
+[tool.ruff]
+line-length = 100
+
+[tool.pyright]
+pythonVersion = "3.11"
+typeCheckingMode = "basic"

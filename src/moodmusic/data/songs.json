@@ -1,0 +1,2268 @@
+[
+  {
+    "id": "sleep-token-alkaline",
+    "title": "Alkaline",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "melancholic"
+    ],
+    "description": "Alkaline by Sleep Token."
+  },
+  {
+    "id": "sleep-token-rain",
+    "title": "Rain",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "melancholic"
+    ],
+    "description": "Rain by Sleep Token."
+  },
+  {
+    "id": "sleep-token-ascensionism",
+    "title": "Ascensionism",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "mysterious"
+    ],
+    "description": "Ascensionism by Sleep Token."
+  },
+  {
+    "id": "sleep-token-take-me-back-to-eden",
+    "title": "Take Me Back To Eden",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "dreamy",
+      "melancholic"
+    ],
+    "description": "Take Me Back To Eden by Sleep Token."
+  },
+  {
+    "id": "sleep-token-euclid",
+    "title": "Euclid",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "melodic",
+      "mysterious"
+    ],
+    "description": "Euclid by Sleep Token."
+  },
+  {
+    "id": "yorushika-sunny",
+    "title": "Sunny",
+    "artist": "Yorushika",
+    "tags": [
+      "calm",
+      "uplifting",
+      "melancholic"
+    ],
+    "description": "Sunny by Yorushika."
+  },
+  {
+    "id": "sleep-token-emergence",
+    "title": "Emergence",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "dramatic"
+    ],
+    "description": "Emergence by Sleep Token."
+  },
+  {
+    "id": "sleep-token-caramel",
+    "title": "Caramel",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "emotional",
+      "intense"
+    ],
+    "description": "Caramel by Sleep Token."
+  },
+  {
+    "id": "sleep-token-damocles",
+    "title": "Damocles",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "energetic",
+      "intense"
+    ],
+    "description": "Damocles by Sleep Token."
+  },
+  {
+    "id": "the-pretty-reckless-make-me-wanna-die",
+    "title": "Make Me Wanna Die",
+    "artist": "The Pretty Reckless",
+    "tags": [
+      "dark",
+      "aggressive",
+      "melancholic"
+    ],
+    "description": "Make Me Wanna Die by The Pretty Reckless."
+  },
+  {
+    "id": "speech-patterns-deja-vu",
+    "title": "Déjà Vu",
+    "artist": "Speech Patterns",
+    "tags": [
+      "moody",
+      "calm",
+      "melancholic"
+    ],
+    "description": "Déjà Vu by Speech Patterns."
+  },
+  {
+    "id": "skillet-whispers-in-the-dark",
+    "title": "Whispers In the Dark",
+    "artist": "Skillet",
+    "tags": [
+      "intense",
+      "dramatic",
+      "motivational"
+    ],
+    "description": "Whispers In the Dark by Skillet."
+  },
+  {
+    "id": "evanescence-going-under",
+    "title": "Going Under",
+    "artist": "Evanescence",
+    "tags": [
+      "dark",
+      "melancholic",
+      "emotional"
+    ],
+    "description": "Going Under by Evanescence."
+  },
+  {
+    "id": "hinds-san-diego",
+    "title": "San Diego",
+    "artist": "Hinds",
+    "tags": [
+      "upbeat",
+      "happy",
+      "energetic"
+    ],
+    "description": "San Diego by Hinds."
+  },
+  {
+    "id": "bring-me-the-horizon-darkside",
+    "title": "DArkSide",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "intense",
+      "dark",
+      "aggressive"
+    ],
+    "description": "DArkSide by Bring Me The Horizon."
+  },
+  {
+    "id": "sleep-token-the-way-that-you-were",
+    "title": "The Way That You Were",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "melancholic",
+      "emotional"
+    ],
+    "description": "The Way That You Were by Sleep Token."
+  },
+  {
+    "id": "sleep-token-dangerous",
+    "title": "Dangerous",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "dramatic"
+    ],
+    "description": "Dangerous by Sleep Token."
+  },
+  {
+    "id": "sleep-token-look-to-windward",
+    "title": "Look To Windward",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "dreamy",
+      "melancholic"
+    ],
+    "description": "Look To Windward by Sleep Token."
+  },
+  {
+    "id": "sleep-token-past-self",
+    "title": "Past Self",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "reflective",
+      "melancholic"
+    ],
+    "description": "Past Self by Sleep Token."
+  },
+  {
+    "id": "sleep-token-provider",
+    "title": "Provider",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "dramatic"
+    ],
+    "description": "Provider by Sleep Token."
+  },
+  {
+    "id": "sleep-token-granite",
+    "title": "Granite",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "heavy",
+      "intense"
+    ],
+    "description": "Granite by Sleep Token."
+  },
+  {
+    "id": "sleep-token-the-apparition",
+    "title": "The Apparition",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "mysterious",
+      "melancholic"
+    ],
+    "description": "The Apparition by Sleep Token."
+  },
+  {
+    "id": "sleep-token-dark-signs",
+    "title": "Dark Signs",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Dark Signs by Sleep Token."
+  },
+  {
+    "id": "sleep-token-levitate",
+    "title": "Levitate",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "uplifting",
+      "dreamy"
+    ],
+    "description": "Levitate by Sleep Token."
+  },
+  {
+    "id": "sleep-token-the-offering",
+    "title": "The Offering",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "dramatic",
+      "intense"
+    ],
+    "description": "The Offering by Sleep Token."
+  },
+  {
+    "id": "sleep-token-blood-sport-from-the-room-below",
+    "title": "Blood Sport (from the room below)",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Blood Sport (from the room below) by Sleep Token."
+  },
+  {
+    "id": "sleep-token-when-the-partys-over-from-the-room-below",
+    "title": "When the Party's Over (from the room below)",
+    "artist": "Sleep Token",
+    "tags": [
+      "melancholic",
+      "dark",
+      "calm"
+    ],
+    "description": "When the Party's Over (from the room below) by Sleep Token."
+  },
+  {
+    "id": "sleep-token-nazareth",
+    "title": "Nazareth",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "emotional",
+      "intense"
+    ],
+    "description": "Nazareth by Sleep Token."
+  },
+  {
+    "id": "bring-me-the-horizon-limousine-feat-aurora",
+    "title": "liMOusIne (feat. AURORA)",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "dark",
+      "intense",
+      "melancholic"
+    ],
+    "description": "liMOusIne (feat. AURORA) by Bring Me The Horizon."
+  },
+  {
+    "id": "bad-omens-van",
+    "title": "V.A.N",
+    "artist": "Bad Omens",
+    "tags": [
+      "intense",
+      "dark",
+      "aggressive"
+    ],
+    "description": "V.A.N by Bad Omens."
+  },
+  {
+    "id": "starset-degenerate",
+    "title": "DEGENERATE",
+    "artist": "STARSET",
+    "tags": [
+      "intense",
+      "dark",
+      "energetic"
+    ],
+    "description": "DEGENERATE by STARSET."
+  },
+  {
+    "id": "bring-me-the-horizon-amen-feat-lil-uzi-vert-daryl-palumbo-glassjaw",
+    "title": "AmEN! (feat. Lil Uzi Vert, Daryl Palumbo & Glassjaw)",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "energetic",
+      "aggressive",
+      "dark"
+    ],
+    "description": "AmEN! (feat. Lil Uzi Vert, Daryl Palumbo & Glassjaw) by Bring Me The Horizon."
+  },
+  {
+    "id": "ren-money-game",
+    "title": "Money Game",
+    "artist": "Ren",
+    "tags": [
+      "energetic",
+      "upbeat",
+      "intense"
+    ],
+    "description": "Money Game by Ren."
+  },
+  {
+    "id": "ren-money-game-pt-2",
+    "title": "Money Game, Pt. 2",
+    "artist": "Ren",
+    "tags": [
+      "energetic",
+      "upbeat",
+      "intense"
+    ],
+    "description": "Money Game, Pt. 2 by Ren."
+  },
+  {
+    "id": "ren-money-game-pt-3",
+    "title": "Money Game, Pt. 3",
+    "artist": "Ren",
+    "tags": [
+      "energetic",
+      "upbeat",
+      "intense"
+    ],
+    "description": "Money Game, Pt. 3 by Ren."
+  },
+  {
+    "id": "ren-violets-tale",
+    "title": "Violet's Tale",
+    "artist": "Ren",
+    "tags": [
+      "calm",
+      "dreamy",
+      "emotional"
+    ],
+    "description": "Violet's Tale by Ren."
+  },
+  {
+    "id": "revnoir-in-limbo",
+    "title": "In Limbo",
+    "artist": "Revnoir",
+    "tags": [
+      "dark",
+      "melancholic",
+      "atmospheric"
+    ],
+    "description": "In Limbo by Revnoir."
+  },
+  {
+    "id": "bring-me-the-horizon-kool-aid",
+    "title": "Kool-Aid",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "energetic",
+      "aggressive",
+      "dark"
+    ],
+    "description": "Kool-Aid by Bring Me The Horizon."
+  },
+  {
+    "id": "ally-nicholas-fall-into",
+    "title": "Fall Into",
+    "artist": "Ally Nicholas",
+    "tags": [
+      "calm",
+      "emotional",
+      "melancholic"
+    ],
+    "description": "Fall Into by Ally Nicholas."
+  },
+  {
+    "id": "linkin-park-the-emptiness-machine",
+    "title": "The Emptiness Machine",
+    "artist": "LINKIN PARK",
+    "tags": [
+      "intense",
+      "dark",
+      "melancholic"
+    ],
+    "description": "The Emptiness Machine by LINKIN PARK."
+  },
+  {
+    "id": "linkin-park-heavy-is-the-crown",
+    "title": "Heavy Is the Crown",
+    "artist": "LINKIN PARK",
+    "tags": [
+      "intense",
+      "dramatic",
+      "dark"
+    ],
+    "description": "Heavy Is the Crown by LINKIN PARK."
+  },
+  {
+    "id": "linkin-park-casualty",
+    "title": "Casualty",
+    "artist": "LINKIN PARK",
+    "tags": [
+      "dark",
+      "aggressive",
+      "emotional"
+    ],
+    "description": "Casualty by LINKIN PARK."
+  },
+  {
+    "id": "linkin-park-over-each-other",
+    "title": "Over Each Other",
+    "artist": "LINKIN PARK",
+    "tags": [
+      "dark",
+      "intense",
+      "reflective"
+    ],
+    "description": "Over Each Other by LINKIN PARK."
+  },
+  {
+    "id": "league-of-legends-music-get-jinxed",
+    "title": "Get Jinxed",
+    "artist": "League of Legends Music",
+    "tags": [
+      "energetic",
+      "intense",
+      "dramatic"
+    ],
+    "description": "Get Jinxed by League of Legends Music."
+  },
+  {
+    "id": "skillet-awake-and-alive",
+    "title": "Awake and Alive",
+    "artist": "Skillet",
+    "tags": [
+      "motivational",
+      "energetic",
+      "intense"
+    ],
+    "description": "Awake and Alive by Skillet."
+  },
+  {
+    "id": "skillet-feel-invincible",
+    "title": "Feel Invincible",
+    "artist": "Skillet",
+    "tags": [
+      "energetic",
+      "empowering",
+      "motivational"
+    ],
+    "description": "Feel Invincible by Skillet."
+  },
+  {
+    "id": "polaris-all-of-this-is-fleeting",
+    "title": "All of This Is Fleeting",
+    "artist": "Polaris",
+    "tags": [
+      "emotional",
+      "melancholic",
+      "calm"
+    ],
+    "description": "All of This Is Fleeting by Polaris."
+  },
+  {
+    "id": "ren-vincents-tale-prologue-sunflowers",
+    "title": "Vincent's Tale - Prologue - Sunflowers",
+    "artist": "Ren",
+    "tags": [
+      "calm",
+      "dreamy",
+      "emotional"
+    ],
+    "description": "Vincent's Tale - Prologue - Sunflowers by Ren."
+  },
+  {
+    "id": "ren-vincents-tale-self-portrait",
+    "title": "Vincent's Tale - Self Portrait",
+    "artist": "Ren",
+    "tags": [
+      "calm",
+      "reflective",
+      "melancholic"
+    ],
+    "description": "Vincent's Tale - Self Portrait by Ren."
+  },
+  {
+    "id": "papa-roach-last-resort",
+    "title": "Last Resort",
+    "artist": "Papa Roach",
+    "tags": [
+      "aggressive",
+      "intense",
+      "dark"
+    ],
+    "description": "Last Resort by Papa Roach."
+  },
+  {
+    "id": "zero-9-36-until-the-day-i",
+    "title": "Until the Day I",
+    "artist": "Zero 9:36",
+    "tags": [
+      "melancholic",
+      "calm",
+      "dark"
+    ],
+    "description": "Until the Day I by Zero 9:36."
+  },
+  {
+    "id": "zero-9-36-here-to-bleed",
+    "title": "Here to Bleed",
+    "artist": "Zero 9:36",
+    "tags": [
+      "emotional",
+      "dark",
+      "intense"
+    ],
+    "description": "Here to Bleed by Zero 9:36."
+  },
+  {
+    "id": "sleep-token-the-summoning",
+    "title": "The Summoning",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "dramatic"
+    ],
+    "description": "The Summoning by Sleep Token."
+  },
+  {
+    "id": "parker-jack-dead-inside",
+    "title": "Dead Inside",
+    "artist": "Parker Jack",
+    "tags": [
+      "dark",
+      "emotional",
+      "melancholic"
+    ],
+    "description": "Dead Inside by Parker Jack."
+  },
+  {
+    "id": "miguel-owls-the-death-of-peace-of-mind",
+    "title": "The Death of Peace of Mind",
+    "artist": "Miguel Owls",
+    "tags": [
+      "dark",
+      "intense",
+      "reflective"
+    ],
+    "description": "The Death of Peace of Mind by Miguel Owls."
+  },
+  {
+    "id": "corpse-code-mistake",
+    "title": "CODE MISTAKE",
+    "artist": "CORPSE",
+    "tags": [
+      "dark",
+      "aggressive",
+      "intense"
+    ],
+    "description": "CODE MISTAKE by CORPSE."
+  },
+  {
+    "id": "corpse-misa-misa",
+    "title": "MISA MISA!",
+    "artist": "CORPSE",
+    "tags": [
+      "dark",
+      "intense",
+      "dramatic"
+    ],
+    "description": "MISA MISA! by CORPSE."
+  },
+  {
+    "id": "corpse-miss-you",
+    "title": "Miss YOU!",
+    "artist": "CORPSE",
+    "tags": [
+      "melancholic",
+      "emotional",
+      "dark"
+    ],
+    "description": "Miss YOU! by CORPSE."
+  },
+  {
+    "id": "corpse-poltergeist",
+    "title": "Poltergeist!",
+    "artist": "CORPSE",
+    "tags": [
+      "aggressive",
+      "dark",
+      "intense"
+    ],
+    "description": "Poltergeist! by CORPSE."
+  },
+  {
+    "id": "corpse-fuk-u-lol",
+    "title": "fuK u lol",
+    "artist": "CORPSE",
+    "tags": [
+      "aggressive",
+      "dark",
+      "intense"
+    ],
+    "description": "fuK u lol by CORPSE."
+  },
+  {
+    "id": "corpse-e-girls-are-ruining-my-life",
+    "title": "E-Girls Are Ruining My Life!",
+    "artist": "CORPSE",
+    "tags": [
+      "energetic",
+      "dark",
+      "dramatic"
+    ],
+    "description": "E-Girls Are Ruining My Life! by CORPSE."
+  },
+  {
+    "id": "corpse-hot-demon-btches-near-u",
+    "title": "Hot Demon B!Tches Near U ! ! !",
+    "artist": "CORPSE",
+    "tags": [
+      "dark",
+      "energetic",
+      "aggressive"
+    ],
+    "description": "Hot Demon B!Tches Near U ! ! ! by CORPSE."
+  },
+  {
+    "id": "corpse-life-waster",
+    "title": "Life Waster",
+    "artist": "CORPSE",
+    "tags": [
+      "dark",
+      "melancholic",
+      "intense"
+    ],
+    "description": "Life Waster by CORPSE."
+  },
+  {
+    "id": "corpse-agoraphobic",
+    "title": "Agoraphobic",
+    "artist": "CORPSE",
+    "tags": [
+      "dark",
+      "introspective",
+      "melancholic"
+    ],
+    "description": "Agoraphobic by CORPSE."
+  },
+  {
+    "id": "corpse-cabin-fever",
+    "title": "Cabin Fever",
+    "artist": "CORPSE",
+    "tags": [
+      "dark",
+      "intense",
+      "moody"
+    ],
+    "description": "Cabin Fever by CORPSE."
+  },
+  {
+    "id": "corpse-never-satisfied",
+    "title": "Never Satisfied",
+    "artist": "CORPSE",
+    "tags": [
+      "aggressive",
+      "dark",
+      "energetic"
+    ],
+    "description": "Never Satisfied by CORPSE."
+  },
+  {
+    "id": "corpse-disdain",
+    "title": "Disdain",
+    "artist": "CORPSE",
+    "tags": [
+      "dark",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Disdain by CORPSE."
+  },
+  {
+    "id": "glados-still-alive",
+    "title": "Still Alive",
+    "artist": "GLaDOS",
+    "tags": [
+      "eerie",
+      "dark",
+      "calm"
+    ],
+    "description": "Still Alive by GLaDOS."
+  },
+  {
+    "id": "adriana-figueroa-want-you-gone",
+    "title": "Want You Gone",
+    "artist": "Adriana Figueroa",
+    "tags": [
+      "calm",
+      "melancholic",
+      "emotional"
+    ],
+    "description": "Want You Gone by Adriana Figueroa."
+  },
+  {
+    "id": "bring-me-the-horizon-throne",
+    "title": "Throne",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "dark",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Throne by Bring Me The Horizon."
+  },
+  {
+    "id": "bring-me-the-horizon-hospital-for-souls",
+    "title": "Hospital For Souls",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "dark",
+      "dramatic",
+      "intense"
+    ],
+    "description": "Hospital For Souls by Bring Me The Horizon."
+  },
+  {
+    "id": "ren-so-the-story-goes",
+    "title": "So The Story Goes...",
+    "artist": "Ren",
+    "tags": [
+      "calm",
+      "melancholic",
+      "emotional"
+    ],
+    "description": "So The Story Goes... by Ren."
+  },
+  {
+    "id": "nf-mansion-feat-fleurie",
+    "title": "Mansion (feat. Fleurie)",
+    "artist": "NF",
+    "tags": [
+      "emotional",
+      "melancholic",
+      "calm"
+    ],
+    "description": "Mansion (feat. Fleurie) by NF."
+  },
+  {
+    "id": "bad-omens-limits",
+    "title": "Limits",
+    "artist": "Bad Omens",
+    "tags": [
+      "intense",
+      "dark",
+      "aggressive"
+    ],
+    "description": "Limits by Bad Omens."
+  },
+  {
+    "id": "pam-rabbit-hatehatehate-h8",
+    "title": "hatehatehate (H8)",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "dark",
+      "melancholic",
+      "intense"
+    ],
+    "description": "hatehatehate (H8) by Pam Rabbit."
+  },
+  {
+    "id": "noyada-astrofobie",
+    "title": "Astrofobie",
+    "artist": "noyada",
+    "tags": [
+      "dark",
+      "calm",
+      "melancholic"
+    ],
+    "description": "Astrofobie by noyada."
+  },
+  {
+    "id": "noyada-ethereum",
+    "title": "Ethereum",
+    "artist": "noyada",
+    "tags": [
+      "mysterious",
+      "calm",
+      "dark"
+    ],
+    "description": "Ethereum by noyada."
+  },
+  {
+    "id": "noyada-tokyo",
+    "title": "Tokyo",
+    "artist": "noyada",
+    "tags": [
+      "calm",
+      "energetic",
+      "atmospheric"
+    ],
+    "description": "Tokyo by noyada."
+  },
+  {
+    "id": "bad-omens-just-pretend",
+    "title": "Just Pretend",
+    "artist": "Bad Omens",
+    "tags": [
+      "dark",
+      "emotional",
+      "intense"
+    ],
+    "description": "Just Pretend by Bad Omens."
+  },
+  {
+    "id": "sleep-token-chokehold",
+    "title": "Chokehold",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Chokehold by Sleep Token."
+  },
+  {
+    "id": "skillet-the-resistance",
+    "title": "The Resistance",
+    "artist": "Skillet",
+    "tags": [
+      "intense",
+      "motivational",
+      "aggressive"
+    ],
+    "description": "The Resistance by Skillet."
+  },
+  {
+    "id": "skillet-monster",
+    "title": "Monster",
+    "artist": "Skillet",
+    "tags": [
+      "aggressive",
+      "dark",
+      "intense",
+      "energetic",
+      "powerful"
+    ],
+    "description": "Monster by Skillet."
+  },
+  {
+    "id": "skillet-not-gonna-die",
+    "title": "Not Gonna Die",
+    "artist": "Skillet",
+    "tags": [
+      "intense",
+      "motivational",
+      "aggressive"
+    ],
+    "description": "Not Gonna Die by Skillet."
+  },
+  {
+    "id": "tatu-all-the-things-she-said",
+    "title": "All The Things She Said",
+    "artist": "t.A.T.u.",
+    "tags": [
+      "energetic",
+      "melancholic",
+      "dramatic"
+    ],
+    "description": "All The Things She Said by t.A.T.u.."
+  },
+  {
+    "id": "nf-only",
+    "title": "Only",
+    "artist": "NF",
+    "tags": [
+      "calm",
+      "emotional",
+      "reflective"
+    ],
+    "description": "Only by NF."
+  },
+  {
+    "id": "parker-jack-lost-myself",
+    "title": "Lost Myself",
+    "artist": "Parker Jack",
+    "tags": [
+      "dark",
+      "introspective",
+      "melancholic"
+    ],
+    "description": "Lost Myself by Parker Jack."
+  },
+  {
+    "id": "zero-9-36-left-alone",
+    "title": "Left Alone",
+    "artist": "Zero 9:36",
+    "tags": [
+      "dark",
+      "melancholic",
+      "reflective"
+    ],
+    "description": "Left Alone by Zero 9:36."
+  },
+  {
+    "id": "ren-hi-ren",
+    "title": "Hi Ren",
+    "artist": "Ren",
+    "tags": [
+      "calm",
+      "emotional",
+      "melancholic"
+    ],
+    "description": "Hi Ren by Ren."
+  },
+  {
+    "id": "speech-patterns-one-and-the-same",
+    "title": "One and the Same",
+    "artist": "Speech Patterns",
+    "tags": [
+      "calm",
+      "melancholic",
+      "introspective"
+    ],
+    "description": "One and the Same by Speech Patterns."
+  },
+  {
+    "id": "ren-twos-on-a-cigarette-feat-sahaji",
+    "title": "Two's On A Cigarette (feat. Sahaji)",
+    "artist": "Ren",
+    "tags": [
+      "calm",
+      "dreamy",
+      "emotional"
+    ],
+    "description": "Two's On A Cigarette (feat. Sahaji) by Ren."
+  },
+  {
+    "id": "ren-sick-boi",
+    "title": "Sick Boi",
+    "artist": "Ren",
+    "tags": [
+      "dark",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Sick Boi by Ren."
+  },
+  {
+    "id": "kate-bush-running-up-that-hill-a-deal-with-god-2018-remaster",
+    "title": "Running Up That Hill (A Deal With God) [2018 Remaster]",
+    "artist": "Kate Bush",
+    "tags": [
+      "melancholic",
+      "dramatic",
+      "reflective"
+    ],
+    "description": "Running Up That Hill (A Deal With God) [2018 Remaster] by Kate Bush."
+  },
+  {
+    "id": "ren-suicde",
+    "title": "Suic*de",
+    "artist": "Ren",
+    "tags": [
+      "dark",
+      "introspective",
+      "melancholic"
+    ],
+    "description": "Suic*de by Ren."
+  },
+  {
+    "id": "nf-fear",
+    "title": "FEAR",
+    "artist": "NF",
+    "tags": [
+      "intense",
+      "motivational",
+      "aggressive"
+    ],
+    "description": "FEAR by NF."
+  },
+  {
+    "id": "ren-lost-all-faith",
+    "title": "Lost All Faith",
+    "artist": "Ren",
+    "tags": [
+      "dark",
+      "melancholic",
+      "introspective"
+    ],
+    "description": "Lost All Faith by Ren."
+  },
+  {
+    "id": "ren-loco",
+    "title": "Loco",
+    "artist": "Ren",
+    "tags": [
+      "energetic",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Loco by Ren."
+  },
+  {
+    "id": "zero-9-36-system",
+    "title": "System",
+    "artist": "Zero 9:36",
+    "tags": [
+      "dark",
+      "intense",
+      "reflective"
+    ],
+    "description": "System by Zero 9:36."
+  },
+  {
+    "id": "zero-9-36-leave-it-all-behind",
+    "title": "Leave It All Behind",
+    "artist": "Zero 9:36",
+    "tags": [
+      "dark",
+      "melancholic",
+      "reflective"
+    ],
+    "description": "Leave It All Behind by Zero 9:36."
+  },
+  {
+    "id": "naty-hrychova-loved-living-dead",
+    "title": "Loved Living Dead",
+    "artist": "Naty Hrychová",
+    "tags": [
+      "dark",
+      "melancholic",
+      "emotional"
+    ],
+    "description": "Loved Living Dead by Naty Hrychová."
+  },
+  {
+    "id": "pam-rabbit-zobrazeno",
+    "title": "zobrazeno",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "calm",
+      "melancholic",
+      "reflective",
+      "introspective"
+    ],
+    "description": "zobrazeno by Pam Rabbit."
+  },
+  {
+    "id": "pam-rabbit-anxiety",
+    "title": "anxiety",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "dark",
+      "introspective",
+      "melancholic"
+    ],
+    "description": "anxiety by Pam Rabbit."
+  },
+  {
+    "id": "evanescence-bring-me-to-life",
+    "title": "Bring Me to Life",
+    "artist": "Evanescence",
+    "tags": [
+      "dramatic",
+      "intense",
+      "dark"
+    ],
+    "description": "Bring Me to Life by Evanescence."
+  },
+  {
+    "id": "naty-hrychova-pohoda-jazz",
+    "title": "Pohoda jazz",
+    "artist": "Naty Hrychová",
+    "tags": [
+      "calm",
+      "relaxing",
+      "uplifting"
+    ],
+    "description": "Pohoda jazz by Naty Hrychová."
+  },
+  {
+    "id": "naty-hrychova-zatracenej-dum",
+    "title": "Zatracenej dům",
+    "artist": "Naty Hrychová",
+    "tags": [
+      "dark",
+      "melancholic",
+      "reflective"
+    ],
+    "description": "Zatracenej dům by Naty Hrychová."
+  },
+  {
+    "id": "naty-hrychova-by-se-ti-libilo",
+    "title": "By se ti líbilo",
+    "artist": "Naty Hrychová",
+    "tags": [
+      "calm",
+      "emotional",
+      "melodic"
+    ],
+    "description": "By se ti líbilo by Naty Hrychová."
+  },
+  {
+    "id": "naty-hrychova-nehledej-ruzenku",
+    "title": "Nehledej Růženku",
+    "artist": "Naty Hrychová",
+    "tags": [
+      "calm",
+      "melancholic",
+      "reflective"
+    ],
+    "description": "Nehledej Růženku by Naty Hrychová."
+  },
+  {
+    "id": "naty-hrychova-dneska-nespim",
+    "title": "Dneska nespim",
+    "artist": "Naty Hrychová",
+    "tags": [
+      "calm",
+      "introspective",
+      "relaxing"
+    ],
+    "description": "Dneska nespim by Naty Hrychová."
+  },
+  {
+    "id": "naty-hrychova-overdosed",
+    "title": "Overdosed",
+    "artist": "Naty Hrychová",
+    "tags": [
+      "dark",
+      "emotional",
+      "intense"
+    ],
+    "description": "Overdosed by Naty Hrychová."
+  },
+  {
+    "id": "pam-rabbit-ve-starym-dome",
+    "title": "Ve starym dome",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "melancholic",
+      "dark",
+      "introspective"
+    ],
+    "description": "Ve starym dome by Pam Rabbit."
+  },
+  {
+    "id": "pam-rabbit-dm-friends",
+    "title": "dm \"friends\"",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "calm",
+      "introspective",
+      "reflective"
+    ],
+    "description": "dm \"friends\" by Pam Rabbit."
+  },
+  {
+    "id": "pam-rabbit-ghosting",
+    "title": "ghosting",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "melancholic",
+      "emotional",
+      "dark"
+    ],
+    "description": "ghosting by Pam Rabbit."
+  },
+  {
+    "id": "maya-hawken-missing-out",
+    "title": "Missing Out",
+    "artist": "Maya Hawken",
+    "tags": [
+      "calm",
+      "introspective",
+      "melancholic"
+    ],
+    "description": "Missing Out by Maya Hawken."
+  },
+  {
+    "id": "pam-rabbit-pc",
+    "title": "pc",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "dark",
+      "calm",
+      "introspective"
+    ],
+    "description": "pc by Pam Rabbit."
+  },
+  {
+    "id": "pam-rabbit-pull-the-trigger",
+    "title": "pull the trigger",
+    "artist": "Pam Rabbit",
+    "tags": [
+      "dark",
+      "intense",
+      "emotional"
+    ],
+    "description": "pull the trigger by Pam Rabbit."
+  },
+  {
+    "id": "bring-me-the-horizon-die4u",
+    "title": "Die4U",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "intense",
+      "energetic",
+      "dark"
+    ],
+    "description": "Die4U by Bring Me The Horizon."
+  },
+  {
+    "id": "bring-me-the-horizon-teardrops",
+    "title": "Teardrops",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "melancholic",
+      "nu-metal",
+      "emotional"
+    ],
+    "description": "Teardrops by Bring Me The Horizon."
+  },
+  {
+    "id": "bring-me-the-horizon-sleepwalking",
+    "title": "Sleepwalking",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "atmospheric",
+      "melodic",
+      "reflective"
+    ],
+    "description": "Sleepwalking by Bring Me The Horizon."
+  },
+  {
+    "id": "bring-me-the-horizon-ft-grimes-nihilist-blues",
+    "title": "Nihilist Blues",
+    "artist": "Bring Me The Horizon ft. Grimes",
+    "tags": [
+      "electronic rock",
+      "dark",
+      "atmospheric"
+    ],
+    "description": "Nihilist Blues by Bring Me The Horizon ft. Grimes."
+  },
+  {
+    "id": "spiritbox-holy-roller",
+    "title": "Holy Roller",
+    "artist": "Spiritbox",
+    "tags": [
+      "heavy",
+      "atmospheric",
+      "intense"
+    ],
+    "description": "Holy Roller by Spiritbox."
+  },
+  {
+    "id": "spiritbox-constance",
+    "title": "Constance",
+    "artist": "Spiritbox",
+    "tags": [
+      "haunting",
+      "atmospheric",
+      "emotional"
+    ],
+    "description": "Constance by Spiritbox."
+  },
+  {
+    "id": "spiritbox-rule-of-nines",
+    "title": "Rule Of Nines",
+    "artist": "Spiritbox",
+    "tags": [
+      "energetic",
+      "dark",
+      "intense"
+    ],
+    "description": "Rule Of Nines by Spiritbox."
+  },
+  {
+    "id": "in-this-moment-holy",
+    "title": "Holy",
+    "artist": "In This Moment",
+    "tags": [
+      "dramatic",
+      "gothic",
+      "intense"
+    ],
+    "description": "Holy by In This Moment."
+  },
+  {
+    "id": "thrice-black-honey",
+    "title": "Black Honey",
+    "artist": "Thrice",
+    "tags": [
+      "melodic rock",
+      "emotional",
+      "dark"
+    ],
+    "description": "Black Honey by Thrice."
+  },
+  {
+    "id": "bring-me-the-horizon-mantra",
+    "title": "Mantra",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "powerful",
+      "aggressive",
+      "melodic"
+    ],
+    "description": "Mantra by Bring Me The Horizon."
+  },
+  {
+    "id": "bring-me-the-horizon-and-yungblud-obey",
+    "title": "Obey",
+    "artist": "Bring Me The Horizon & Yungblud",
+    "tags": [
+      "punk-rock energy",
+      "intense",
+      "rebellious"
+    ],
+    "description": "Obey by Bring Me The Horizon & Yungblud."
+  },
+  {
+    "id": "i-prevail-hurricane",
+    "title": "Hurricane",
+    "artist": "I Prevail",
+    "tags": [
+      "energetic",
+      "aggressive",
+      "motivational"
+    ],
+    "description": "Hurricane by I Prevail."
+  },
+  {
+    "id": "i-prevail-bad-things",
+    "title": "Bad Things",
+    "artist": "I Prevail",
+    "tags": [
+      "nu-metal",
+      "energetic",
+      "aggressive"
+    ],
+    "description": "Bad Things by I Prevail."
+  },
+  {
+    "id": "architects-seeing-red",
+    "title": "Seeing Red",
+    "artist": "Architects",
+    "tags": [
+      "heavy",
+      "emotional",
+      "intense"
+    ],
+    "description": "Seeing Red by Architects."
+  },
+  {
+    "id": "hollywood-undead-day-one",
+    "title": "Day One",
+    "artist": "Hollywood Undead",
+    "tags": [
+      "alternative metal",
+      "dark",
+      "energetic"
+    ],
+    "description": "Day One by Hollywood Undead."
+  },
+  {
+    "id": "dragonforce-through-the-fire-and-flames",
+    "title": "Through The Fire And Flames",
+    "artist": "DragonForce",
+    "tags": [
+      "intense",
+      "uplifting",
+      "epic"
+    ],
+    "description": "Through The Fire And Flames by DragonForce."
+  },
+  {
+    "id": "my-chemical-romance-welcome-to-the-black-parade",
+    "title": "Welcome To The Black Parade",
+    "artist": "My Chemical Romance",
+    "tags": [
+      "dramatic",
+      "emotional",
+      "anthemic"
+    ],
+    "description": "Welcome To The Black Parade by My Chemical Romance."
+  },
+  {
+    "id": "paramore-monster",
+    "title": "Monster",
+    "artist": "Paramore",
+    "tags": [
+      "energetic",
+      "alternative rock"
+    ],
+    "description": "Monster by Paramore."
+  },
+  {
+    "id": "bring-me-the-horizon-shadow-moses",
+    "title": "Shadow Moses",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "nu-metal",
+      "intense",
+      "anthemic"
+    ],
+    "description": "Shadow Moses by Bring Me The Horizon."
+  },
+  {
+    "id": "p-o-d-alive",
+    "title": "Alive",
+    "artist": "P.O.D.",
+    "tags": [
+      "rock",
+      "uplifting",
+      "energetic"
+    ],
+    "description": "Alive by P.O.D.."
+  },
+  {
+    "id": "twenty-one-pilots-heathens",
+    "title": "Heathens",
+    "artist": "Twenty One Pilots",
+    "tags": [
+      "dark",
+      "moody",
+      "atmospheric"
+    ],
+    "description": "Heathens by Twenty One Pilots."
+  },
+  {
+    "id": "three-days-grace-animal-i-have-become",
+    "title": "Animal I Have Become",
+    "artist": "Three Days Grace",
+    "tags": [
+      "intense",
+      "dark",
+      "emotional"
+    ],
+    "description": "Animal I Have Become by Three Days Grace."
+  },
+  {
+    "id": "linkin-park-faint",
+    "title": "Faint",
+    "artist": "Linkin Park",
+    "tags": [
+      "intense",
+      "energetic",
+      "angry"
+    ],
+    "description": "Faint by Linkin Park."
+  },
+  {
+    "id": "linkin-park-numb",
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "tags": [
+      "melancholic",
+      "reflective",
+      "emotional"
+    ],
+    "description": "Numb by Linkin Park."
+  },
+  {
+    "id": "linkin-park-given-up",
+    "title": "Given Up",
+    "artist": "Linkin Park",
+    "tags": [
+      "aggressive",
+      "heavy",
+      "emotional"
+    ],
+    "description": "Given Up by Linkin Park."
+  },
+  {
+    "id": "linkin-park-papercut",
+    "title": "Papercut",
+    "artist": "Linkin Park",
+    "tags": [
+      "intense",
+      "rhythmic",
+      "dark"
+    ],
+    "description": "Papercut by Linkin Park."
+  },
+  {
+    "id": "linkin-park-breaking-the-habit",
+    "title": "Breaking The Habit",
+    "artist": "Linkin Park",
+    "tags": [
+      "emotional",
+      "reflective",
+      "melodic"
+    ],
+    "description": "Breaking The Habit by Linkin Park."
+  },
+  {
+    "id": "thirty-seconds-to-mars-the-kill-bury-me",
+    "title": "The Kill (Bury Me)",
+    "artist": "Thirty Seconds to Mars",
+    "tags": [
+      "alternative rock",
+      "emotional"
+    ],
+    "description": "The Kill (Bury Me) by Thirty Seconds to Mars."
+  },
+  {
+    "id": "cage-the-elephant-ready-to-let-go",
+    "title": "Ready To Let Go",
+    "artist": "Cage The Elephant",
+    "tags": [
+      "energetic",
+      "melodic",
+      "introspective"
+    ],
+    "description": "Ready To Let Go by Cage The Elephant."
+  },
+  {
+    "id": "linkin-park-lost-in-the-echo",
+    "title": "Lost In The Echo",
+    "artist": "Linkin Park",
+    "tags": [
+      "atmospheric",
+      "energetic",
+      "melodic"
+    ],
+    "description": "Lost In The Echo by Linkin Park."
+  },
+  {
+    "id": "green-day-still-breathing",
+    "title": "Still Breathing",
+    "artist": "Green Day",
+    "tags": [
+      "emotional",
+      "rock",
+      "melodic"
+    ],
+    "description": "Still Breathing by Green Day."
+  },
+  {
+    "id": "arctic-monkeys-r-u-mine",
+    "title": "R U Mine?",
+    "artist": "Arctic Monkeys",
+    "tags": [
+      "intense",
+      "edgy",
+      "rock"
+    ],
+    "description": "R U Mine? by Arctic Monkeys."
+  },
+  {
+    "id": "grandson-blood-water",
+    "title": "Blood // Water",
+    "artist": "grandson",
+    "tags": [
+      "intense",
+      "aggressive",
+      "dark"
+    ],
+    "description": "Blood // Water by grandson."
+  },
+  {
+    "id": "three-days-grace-painkiller",
+    "title": "Painkiller",
+    "artist": "Three Days Grace",
+    "tags": [
+      "hard rock",
+      "aggressive",
+      "intense"
+    ],
+    "description": "Painkiller by Three Days Grace."
+  },
+  {
+    "id": "bring-me-the-horizon-and-babymetal-kingslayer",
+    "title": "Kingslayer",
+    "artist": "Bring Me The Horizon & BABYMETAL",
+    "tags": [
+      "energetic",
+      "aggressive",
+      "metal"
+    ],
+    "description": "Kingslayer by Bring Me The Horizon & BABYMETAL."
+  },
+  {
+    "id": "sleep-token-oblivion",
+    "title": "Oblivion",
+    "artist": "Sleep Token",
+    "tags": [
+      "dark",
+      "atmospheric",
+      "emotional"
+    ],
+    "description": "Oblivion by Sleep Token."
+  },
+  {
+    "id": "sleeping-with-sirens-rule-the-world",
+    "title": "Rule The World",
+    "artist": "Sleeping With Sirens",
+    "tags": [
+      "melodic rock",
+      "uplifting",
+      "emotional"
+    ],
+    "description": "Rule The World by Sleeping With Sirens."
+  },
+  {
+    "id": "polaris-miles-away",
+    "title": "Miles Away",
+    "artist": "Polaris",
+    "tags": [
+      "atmospheric",
+      "melodic",
+      "reflective"
+    ],
+    "description": "Miles Away by Polaris."
+  },
+  {
+    "id": "northlane-clockwork",
+    "title": "Clockwork",
+    "artist": "Northlane",
+    "tags": [
+      "heavy",
+      "melodic",
+      "intense"
+    ],
+    "description": "Clockwork by Northlane."
+  },
+  {
+    "id": "northlane-obsidian",
+    "title": "Obsidian",
+    "artist": "Northlane",
+    "tags": [
+      "atmospheric",
+      "heavy",
+      "emotional"
+    ],
+    "description": "Obsidian by Northlane."
+  },
+  {
+    "id": "all-time-low-ft-blackbear-monsters",
+    "title": "Monsters",
+    "artist": "All Time Low ft. Blackbear",
+    "tags": [
+      "rock",
+      "catchy",
+      "energetic"
+    ],
+    "description": "Monsters by All Time Low ft. Blackbear."
+  },
+  {
+    "id": "nothing-more-ready-for-war-pray-for-peace",
+    "title": "Ready For War (Pray For Peace)",
+    "artist": "Nothing More",
+    "tags": [
+      "alternative metal",
+      "intense",
+      "emotional"
+    ],
+    "description": "Ready For War (Pray For Peace) by Nothing More."
+  },
+  {
+    "id": "billie-eilish-bury-a-friend",
+    "title": "Bury a Friend",
+    "artist": "Billie Eilish",
+    "tags": [
+      "dark",
+      "atmospheric",
+      "melodic"
+    ],
+    "description": "Bury a Friend by Billie Eilish."
+  },
+  {
+    "id": "mastodon-blood-and-thunder",
+    "title": "Blood and Thunder",
+    "artist": "Mastodon",
+    "tags": [
+      "heavy",
+      "intense",
+      "aggressive"
+    ],
+    "description": "Blood and Thunder by Mastodon."
+  },
+  {
+    "id": "stone-sour-through-glass",
+    "title": "Through Glass",
+    "artist": "Stone Sour",
+    "tags": [
+      "melodic rock",
+      "emotional",
+      "reflective"
+    ],
+    "description": "Through Glass by Stone Sour."
+  },
+  {
+    "id": "slipknot-unsainted",
+    "title": "Unsainted",
+    "artist": "Slipknot",
+    "tags": [
+      "aggressive",
+      "intense",
+      "dramatic"
+    ],
+    "description": "Unsainted by Slipknot."
+  },
+  {
+    "id": "fleetwood-mac-cover-by-evanescence-the-chain",
+    "title": "The Chain",
+    "artist": "Fleetwood Mac (Cover by Evanescence)",
+    "tags": [
+      "atmospheric",
+      "emotional"
+    ],
+    "description": "The Chain by Fleetwood Mac (Cover by Evanescence)."
+  },
+  {
+    "id": "the-cab-angel-with-a-shotgun",
+    "title": "Angel With A Shotgun",
+    "artist": "The Cab",
+    "tags": [
+      "energetic",
+      "rock",
+      "uplifting"
+    ],
+    "description": "Angel With A Shotgun by The Cab."
+  },
+  {
+    "id": "papa-roach-born-for-greatness",
+    "title": "Born for Greatness",
+    "artist": "Papa Roach",
+    "tags": [
+      "energetic",
+      "motivational",
+      "rock"
+    ],
+    "description": "Born for Greatness by Papa Roach."
+  },
+  {
+    "id": "bring-me-the-horizon-chelsea-smile",
+    "title": "Chelsea Smile",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "intense",
+      "aggressive",
+      "metalcore"
+    ],
+    "description": "Chelsea Smile by Bring Me The Horizon."
+  },
+  {
+    "id": "muse-unravelling",
+    "title": "Unravelling",
+    "artist": "Muse",
+    "tags": [
+      "atmospheric",
+      "intense",
+      "progressive"
+    ],
+    "description": "Unravelling by Muse."
+  },
+  {
+    "id": "machine-gun-kelly-and-bring-me-the-horizon-maybe",
+    "title": "Maybe",
+    "artist": "Machine Gun Kelly & Bring Me The Horizon",
+    "tags": [
+      "energetic",
+      "intense",
+      "rock"
+    ],
+    "description": "Maybe by Machine Gun Kelly & Bring Me The Horizon."
+  },
+  {
+    "id": "beartooth-in-between",
+    "title": "In Between",
+    "artist": "Beartooth",
+    "tags": [
+      "heavy",
+      "energetic",
+      "dark"
+    ],
+    "description": "In Between by Beartooth."
+  },
+  {
+    "id": "parkway-drive-vice-grip",
+    "title": "Vice Grip",
+    "artist": "Parkway Drive",
+    "tags": [
+      "metalcore",
+      "powerful",
+      "intense"
+    ],
+    "description": "Vice Grip by Parkway Drive."
+  },
+  {
+    "id": "sleep-theory-another-way",
+    "title": "Another Way",
+    "artist": "Sleep Theory",
+    "tags": [
+      "melodic",
+      "emotional",
+      "atmospheric"
+    ],
+    "description": "Another Way by Sleep Theory."
+  },
+  {
+    "id": "beartooth-the-past-is-dead",
+    "title": "The Past Is Dead",
+    "artist": "Beartooth",
+    "tags": [
+      "aggressive",
+      "intense",
+      "energetic"
+    ],
+    "description": "The Past Is Dead by Beartooth."
+  },
+  {
+    "id": "asking-alexandria-the-prophecy",
+    "title": "The Prophecy",
+    "artist": "Asking Alexandria",
+    "tags": [
+      "heavy",
+      "dark",
+      "metalcore"
+    ],
+    "description": "The Prophecy by Asking Alexandria."
+  },
+  {
+    "id": "killswitch-engage-the-end-of-heartache",
+    "title": "The End of Heartache",
+    "artist": "Killswitch Engage",
+    "tags": [
+      "metalcore",
+      "intense",
+      "emotional"
+    ],
+    "description": "The End of Heartache by Killswitch Engage."
+  },
+  {
+    "id": "august-burns-red-composure",
+    "title": "Composure",
+    "artist": "August Burns Red",
+    "tags": [
+      "heavy",
+      "technical",
+      "energetic"
+    ],
+    "description": "Composure by August Burns Red."
+  },
+  {
+    "id": "story-of-the-year-anthem-of-our-dying-day",
+    "title": "Anthem of Our Dying Day",
+    "artist": "Story of the Year",
+    "tags": [
+      "emo-rock",
+      "emotional",
+      "energetic"
+    ],
+    "description": "Anthem of Our Dying Day by Story of the Year."
+  },
+  {
+    "id": "seether-ft-amy-lee-broken",
+    "title": "Broken",
+    "artist": "Seether ft. Amy Lee",
+    "tags": [
+      "dark",
+      "melodic",
+      "emotional"
+    ],
+    "description": "Broken by Seether ft. Amy Lee."
+  },
+  {
+    "id": "five-finger-death-punch-far-from-home",
+    "title": "Far From Home",
+    "artist": "Five Finger Death Punch",
+    "tags": [
+      "hard rock",
+      "intense",
+      "reflective"
+    ],
+    "description": "Far From Home by Five Finger Death Punch."
+  },
+  {
+    "id": "starset-halo",
+    "title": "Halo",
+    "artist": "Starset",
+    "tags": [
+      "atmospheric",
+      "cinematic",
+      "intense"
+    ],
+    "description": "Halo by Starset."
+  },
+  {
+    "id": "papa-roach-rise-up",
+    "title": "Rise Up",
+    "artist": "Papa Roach",
+    "tags": [
+      "motivational",
+      "energetic",
+      "rock"
+    ],
+    "description": "Rise Up by Papa Roach."
+  },
+  {
+    "id": "the-weeknd-blinding-lights-rock-edit",
+    "title": "Blinding Lights (rock edit)",
+    "artist": "The Weeknd",
+    "tags": [
+      "energetic",
+      "atmospheric",
+      "dark"
+    ],
+    "description": "Blinding Lights (rock edit) by The Weeknd."
+  },
+  {
+    "id": "sick-puppies-theres-no-going-back",
+    "title": "There’s No Going Back",
+    "artist": "Sick Puppies",
+    "tags": [
+      "rock",
+      "emotional",
+      "intense"
+    ],
+    "description": "There’s No Going Back by Sick Puppies."
+  },
+  {
+    "id": "falling-in-reverse-gravity",
+    "title": "Gravity",
+    "artist": "Falling In Reverse",
+    "tags": [
+      "melodic rock",
+      "emotional",
+      "dramatic"
+    ],
+    "description": "Gravity by Falling In Reverse."
+  },
+  {
+    "id": "au-ra-and-alan-walker-darkside",
+    "title": "Darkside",
+    "artist": "Au/Ra & Alan Walker",
+    "tags": [
+      "electronic rock",
+      "dark",
+      "moody"
+    ],
+    "description": "Darkside by Au/Ra & Alan Walker."
+  },
+  {
+    "id": "badflower-ghost",
+    "title": "Ghost",
+    "artist": "Badflower",
+    "tags": [
+      "alternative rock",
+      "emotional",
+      "melancholic"
+    ],
+    "description": "Ghost by Badflower."
+  },
+  {
+    "id": "avenged-sevenfold-warmness-on-the-soul",
+    "title": "Warmness on the Soul",
+    "artist": "Avenged Sevenfold",
+    "tags": [
+      "melodic",
+      "emotional",
+      "dark"
+    ],
+    "description": "Warmness on the Soul by Avenged Sevenfold."
+  },
+  {
+    "id": "you-me-at-six-ft-oli-sykes-bite-my-tongue",
+    "title": "Bite My Tongue",
+    "artist": "You Me At Six ft. Oli Sykes",
+    "tags": [
+      "rock",
+      "intense",
+      "melodic"
+    ],
+    "description": "Bite My Tongue by You Me At Six ft. Oli Sykes."
+  },
+  {
+    "id": "grinspoon-die-again",
+    "title": "Die Again",
+    "artist": "Grinspoon",
+    "tags": [
+      "alternative rock",
+      "intense",
+      "upbeat"
+    ],
+    "description": "Die Again by Grinspoon."
+  },
+  {
+    "id": "alice-cooper-poison",
+    "title": "Poison",
+    "artist": "Alice Cooper",
+    "tags": [
+      "classic rock",
+      "dark",
+      "theatrical"
+    ],
+    "description": "Poison by Alice Cooper."
+  },
+  {
+    "id": "thirty-seconds-to-mars-the-kill",
+    "title": "The Kill",
+    "artist": "Thirty Seconds to Mars",
+    "tags": [
+      "alternative rock",
+      "dramatic",
+      "emotional"
+    ],
+    "description": "The Kill by Thirty Seconds to Mars."
+  },
+  {
+    "id": "bush-bring-you-down",
+    "title": "Bring You Down",
+    "artist": "Bush",
+    "tags": [
+      "grunge",
+      "dark",
+      "melancholic"
+    ],
+    "description": "Bring You Down by Bush."
+  },
+  {
+    "id": "bring-me-the-horizon-can-you-feel-my-heart",
+    "title": "Can You Feel My Heart",
+    "artist": "Bring Me The Horizon",
+    "tags": [
+      "electronic rock",
+      "emotional",
+      "intense"
+    ],
+    "description": "Can You Feel My Heart by Bring Me The Horizon."
+  },
+  {
+    "id": "in-flames-miles-away",
+    "title": "Miles Away",
+    "artist": "In Flames",
+    "tags": [
+      "melodic metal",
+      "atmospheric",
+      "reflective"
+    ],
+    "description": "Miles Away by In Flames."
+  },
+  {
+    "id": "linkin-park-bleed-it-out",
+    "title": "Bleed It Out",
+    "artist": "Linkin Park",
+    "tags": [
+      "rap-rock",
+      "energetic",
+      "intense"
+    ],
+    "description": "Bleed It Out by Linkin Park."
+  },
+  {
+    "id": "puddle-of-mudd-blurry",
+    "title": "Blurry",
+    "artist": "Puddle Of Mudd",
+    "tags": [
+      "post-grunge",
+      "emotional",
+      "dark"
+    ],
+    "description": "Blurry by Puddle Of Mudd."
+  },
+  {
+    "id": "rage-against-the-machine-killing-in-the-name",
+    "title": "Killing in the Name",
+    "artist": "Rage Against The Machine",
+    "tags": [
+      "aggressive",
+      "rebellious",
+      "intense"
+    ],
+    "description": "Killing in the Name by Rage Against The Machine."
+  },
+  {
+    "id": "em-beihold-numb-little-bug-rock-edit",
+    "title": "Numb Little Bug (rock edit)",
+    "artist": "Em Beihold",
+    "tags": [
+      "melodic",
+      "emotional",
+      "calm"
+    ],
+    "description": "Numb Little Bug (rock edit) by Em Beihold."
+  },
+  {
+    "id": "jimmy-eat-world-23",
+    "title": "23",
+    "artist": "Jimmy Eat World",
+    "tags": [
+      "emo-rock",
+      "reflective",
+      "melodic"
+    ],
+    "description": "23 by Jimmy Eat World."
+  },
+  {
+    "id": "linkin-park-what-ive-done",
+    "title": "What I’ve Done",
+    "artist": "Linkin Park",
+    "tags": [
+      "intense",
+      "reflective",
+      "melodic"
+    ],
+    "description": "What I’ve Done by Linkin Park."
+  },
+  {
+    "id": "three-days-grace-world-so-cold",
+    "title": "World So Cold",
+    "artist": "Three Days Grace",
+    "tags": [
+      "dark",
+      "emotional",
+      "rock"
+    ],
+    "description": "World So Cold by Three Days Grace."
+  },
+  {
+    "id": "three-days-grace-pain",
+    "title": "Pain",
+    "artist": "Three Days Grace",
+    "tags": [
+      "aggressive",
+      "intense",
+      "emotional"
+    ],
+    "description": "Pain by Three Days Grace."
+  },
+  {
+    "id": "lil-mosey-rock-remix-noticed",
+    "title": "Noticed",
+    "artist": "Lil Mosey (rock remix)",
+    "tags": [
+      "melodic",
+      "energetic",
+      "dark"
+    ],
+    "description": "Noticed by Lil Mosey (rock remix)."
+  },
+  {
+    "id": "muse-starlight",
+    "title": "Starlight",
+    "artist": "Muse",
+    "tags": [
+      "anthemic",
+      "atmospheric",
+      "emotional"
+    ],
+    "description": "Starlight by Muse."
+  },
+  {
+    "id": "slipknot-dead-memories",
+    "title": "Dead Memories",
+    "artist": "Slipknot",
+    "tags": [
+      "heavy",
+      "melodic",
+      "dark"
+    ],
+    "description": "Dead Memories by Slipknot."
+  },
+  {
+    "id": "red-hot-chili-peppers-cant-stop",
+    "title": "Can’t Stop",
+    "artist": "Red Hot Chili Peppers",
+    "tags": [
+      "funk rock",
+      "energetic",
+      "upbeat"
+    ],
+    "description": "Can’t Stop by Red Hot Chili Peppers."
+  },
+  {
+    "id": "breaking-benjamin-blow-me-away",
+    "title": "Blow Me Away",
+    "artist": "Breaking Benjamin",
+    "tags": [
+      "hard rock",
+      "intense",
+      "atmospheric"
+    ],
+    "description": "Blow Me Away by Breaking Benjamin."
+  },
+  {
+    "id": "fort-minor-where-did-you-go",
+    "title": "Where Did You Go",
+    "artist": "Fort Minor",
+    "tags": [
+      "rap rock",
+      "emotional",
+      "reflective"
+    ],
+    "description": "Where Did You Go by Fort Minor."
+  },
+  {
+    "id": "disturbed-down-with-the-sickness",
+    "title": "Down With The Sickness",
+    "artist": "Disturbed",
+    "tags": [
+      "aggressive",
+      "intense",
+      "dark"
+    ],
+    "description": "Down With The Sickness by Disturbed."
+  }
+]
