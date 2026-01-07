@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project was written entirely by AI. Our teacher told us to create some basic app using copilot, to get a higher grade, so I did.
+
 # MoodMusic
 
 A tiny Python project that recommends songs based on a user-provided mood description.
